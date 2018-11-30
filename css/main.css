@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   line-height: 1.5;
 }
 
@@ -21,7 +21,7 @@ img {
 }
 
 body {
-  background-color: #f2;
+  background-color: #f2f2f2;
   margin: 0;
   padding: 1.5;
 }
@@ -87,7 +87,7 @@ section {
 }
 
 .light {
-    background-color: #e2;
+    background-color: #e2e2e2;
 }
 
 .grey {
