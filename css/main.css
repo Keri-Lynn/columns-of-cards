@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
-  line-height: 1.5;
+  font-family: "'Open Sans", sans-serif;
+  line-height: 1.5em;
 }
 
 *, *::before, *::after {
@@ -14,7 +14,7 @@ img {
 }
 
 .cards img {
-  width :100px;
+  width: 100px;
   margin: 0 auto 1.5rem;
   flex-direction: row;
   flex-grow: 1;
@@ -23,7 +23,9 @@ img {
 body {
   background-color: #f2f2f2;
   margin: 0;
-  padding: 1.5;
+  padding-right: 1.5rem;
+  padding-bottom: 1.5rem;
+  padding-left: 1.5rem;
 }
 
 .cards {
@@ -64,7 +66,7 @@ div p {
 }
 
 section {
-  background-color: #f2;
+  background-color: #f2f2f2;
 }
 
 .btn {
@@ -77,7 +79,7 @@ section {
   border: 3px solid #333;
   border-radius: 8px;
   text-decoration: underline;
-  padding: .4em .75em; .3em;
+  padding: .4em .75em .3em;
   font-size: .875rem;
 }
 
@@ -87,18 +89,18 @@ section {
 }
 
 .light {
-    background-color: #e2e2e2;
+  background-color: #e2e2e2;
 }
 
 .grey {
-    background-color: #ccc;
+  background-color: #ccc;
 }
 
 .dark {
-    background-color: #aaa;
+  background-color: #aaa;
 }
 
 .very-dark {
-    background-color: #999;
-    border-right: 1px solid;
+  background-color: #999;
+  border-right: 1px solid;
 }
