@@ -78,7 +78,7 @@ section {
 .btn-small {
   border: 3px solid #333;
   border-radius: 8px;
-  text-decoration: underline;
+  text-decoration: none;
   padding: .4em .75em .3em;
   font-size: .875rem;
 }
